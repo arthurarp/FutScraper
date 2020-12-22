@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from html2json import collect
 
 class Scraper:
 
